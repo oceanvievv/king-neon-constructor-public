@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.573a1c501eff5a35695723ad9d798502.js"
+  "/precache-manifest.db44dba716ddee20047a0ca4e27eda56.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "neon"});
