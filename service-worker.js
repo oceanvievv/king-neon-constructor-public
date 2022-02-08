@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8e1200d02f4d93e75ce12e8432b89e85.js"
+  "https://cdn.jsdelivr.net/gh/oceanvievv/king-neon-constructor-public@0.1.2/precache-manifest.81aae615ef6c3270cdf570b3cd030a25.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "neon"});
